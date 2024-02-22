@@ -8,7 +8,7 @@ VsCode
 
 # Prerequisites
 Make sure to have the required libraries installed before running the script. You can install them using the following:
-'pip install PyMuPDF docx2txt scikit-learn'
+* 'pip install PyMuPDF docx2txt scikit-learn'
 
 # Usage
 Directory Structure:
@@ -21,7 +21,7 @@ Job Description: Supports both DOCX and PDF formats.
 Running the Script:
 
 Execute the script in a Python environment.
-python main.py
+* 'python main.py'
 
 # Important Notes
 * Ensure there is only one file in the job-desc directory.
