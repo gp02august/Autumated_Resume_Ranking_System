@@ -3,6 +3,9 @@
 Readme for Resume Matching Tool
 This Python script is designed to compare resumes against a job description (JD) and rank them based on similarity using cosine similarity scores. The tool supports both DOCX and PDF file formats for resumes.
 
+# IDE : 
+VsCode
+
 # Prerequisites
 Make sure to have the required libraries installed before running the script. You can install them using the following:
 pip install PyMuPDF docx2txt scikit-learn
