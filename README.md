@@ -3,7 +3,7 @@
 Readme for Resume Matching Tool
 This Python script is designed to compare resumes against a job description (JD) and rank them based on similarity using cosine similarity scores. The tool supports both DOCX and PDF file formats for resumes.
 
-# IDE : 
+# Code Editor : 
 VsCode
 
 # Prerequisites
