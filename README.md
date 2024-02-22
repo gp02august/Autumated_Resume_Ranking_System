@@ -25,9 +25,9 @@ python main.py
 
 # Important Notes
 * Ensure there is only one file in the job-desc directory.
-* The script uses cosine similarity scores for comparison.
+  The script uses cosine similarity scores for comparison.
 Resumes are ranked in descending order of similarity.
-The final output includes the rank, resume file name, and similarity percentage.
+
 
 # Output
 The output includes the rank, resume file name, and similarity percentage. Output is a dictionary of rank(integer) as key and list having resume name(str) and similarity percentage(float) as value, based on their similarity to the job description.
