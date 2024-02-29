@@ -48,7 +48,7 @@ if len(files_in_jobdesc) == 1:
         
    
 else:
-    print(f'There are {len(files_in_directory)} files in the directory. Expected only one.')
+    print(f'There are {len(files_in_jobdesc)} files in the directory. Expected only one.')
 
 
 res_dict = {}
